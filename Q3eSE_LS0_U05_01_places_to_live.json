@@ -1,0 +1,138 @@
+
+
+{
+  "title": "Which words are places to live?",
+  "sentences": [
+    {
+      "speaker": "",
+      "keyWord": "apartment",
+      "definition": "",
+      "english": "apartment",
+      "arabic": "شقة",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "",
+      "keyWord": "park",
+      "definition": "",
+      "english": "park",
+      "arabic": "حديقة",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "",
+      "keyWord": "office",
+      "definition": "",
+      "english": "office",
+      "arabic": "مكتب",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "",
+      "keyWord": "restaurant",
+      "definition": "",
+      "english": "restaurant",
+      "arabic": "مطعم",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "studio",
+      "definition": "",
+      "english": "studio",
+      "arabic": "ستوديو",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "hotel",
+      "definition": "",
+      "english": "hotel",
+      "arabic": "فندق",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "mansion",
+      "definition": "",
+      "english": "mansion",
+      "arabic": "قصر",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "garage",
+      "definition": "",
+      "english": "garage",
+      "arabic": "مرآب",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "dormitory",
+      "definition": "",
+      "english": "dormitory",
+      "arabic": "سكن الطلاب",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "house",
+      "definition": "",
+      "english": "house",
+      "arabic": "منزل",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }
+    
+  ]
+}

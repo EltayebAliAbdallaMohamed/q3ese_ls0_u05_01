@@ -1,0 +1,67 @@
+
+
+{
+  "title": "Who said what?",
+  "sentences": [
+   
+    {
+      "speaker": "Yuna:",
+      "keyWord": "Who says?",
+      "definition": "",
+      "english": "My roommates are nice.",
+      "arabic": "زملائي في السكن لطفاء",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "assets/audio/My roommates are nice.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Felix:",
+      "keyWord": "Who says?",
+      "definition": "",
+      "english": "Location is important.",
+      "arabic": "الموقع مهم.",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "assets/audio/Location is important.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Marcus:",
+    "keyWord": "Who says?",
+      "definition": "",
+      "english": "A good home is quiet.",
+      "arabic": "البيت الجيد هادئ.",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "assets/audio/Right now, I think a good home is quiet.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+          
+      "speaker": "Sophy:",
+      "keyWord": "Who says?",
+      "definition": "",
+      "english": "I want to be right next to the beach.",
+      "arabic": "أريد أن أكون بجانب الشاطئ مباشرة.",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "assets/audio/I want to be right next to the beach.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+
+    }
+    
+    
+  ]
+}

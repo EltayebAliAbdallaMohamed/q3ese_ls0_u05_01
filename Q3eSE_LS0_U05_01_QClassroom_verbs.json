@@ -1,0 +1,166 @@
+
+
+{
+  "title": "Q3eSE_LS0_U05_01_QClassroom",
+  "sentences": [
+
+    {
+      "speaker": "Teacher:",
+      "keyWord": "makes",
+      "definition": "",
+      "english": "What makes a good home?",
+      "arabic": " ما الذي يجعل منزلًا جيدًا؟",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "assets/audio/What makes a good home.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Teacher:",
+      "keyWord": "live",
+      "definition": "",
+      "english": "Yes, the people you live with are very important.",
+      "arabic": "نعم، الأشخاص الذين تعيش معهم مهمون جدًا.",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "assets/audio/the people you live with are very important.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },   
+
+    {
+      "speaker": "Teacher:",
+      "keyWord": "think",
+      "definition": "",
+      "english": "What do you think makes a good home?",
+      "arabic": "ما الذي تعتقد أنه يجعل المنزل جيدًا؟",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "assets/audio/What do you think makes a good home.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+
+    },
+    
+    {
+      "speaker": "Teacher:",
+      "keyWord": "walk",
+      "definition": "",
+      "english": "I like my home because I can walk to school and to the store",
+      "arabic": "أحب منزلي لأنني أستطيع المشي إلى المدرسة وإلى المتجر",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "assets/audio/I like my home because I can walk to school and to the store.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Teacher:",
+      "keyWord": "think",
+      "definition": "",
+      "english": "Marcus, what do you think?",
+      "arabic": "ماركوس، ما رأيك؟",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "assets/audio/Marcus, what do you think.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Marcus:",
+      "keyWord": "think",
+      "definition": "",
+      "english": "Right now, I think a good home is quiet.",
+      "arabic": "أحب منزلي لأنه هادئ.",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "assets/audio/Right now, I think a good home is quiet.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Teacher:",
+      "keyWord": "move",
+      "definition": "",
+      "english": "Sometimes I want to move, but my apartment is cheap.",
+      "arabic": "أحيانًا أريد النقل، لكن شقتي رخيصة.",
+      "refer_to": "Page 77",
+      "back_to": "",
+      "audio": "assets/audio/Sometimes I want to move, but my apartment is cheap.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+     {
+          
+          "speaker": "Sophy:",
+          "keyWord": "want",
+          "definition": "",
+          "english": "I want three bathrooms, a big backyard, and a swimming pool.",
+          "arabic": "أريد ثلاثة حمامات، فناء خلفي كبير، ومسبح.",
+          "refer_to": "Page 77",
+          "back_to": "",
+          "audio": "assets/audio/I want three bathrooms, a big backyard, and a swimming pool.mp3",
+          "audioQuestion": "",
+          "answer": "",
+          "Image": ""
+    },    
+    {
+          
+          "speaker": "Sophy:",
+          "keyWord": "want",
+          "definition": "",
+          "english": "And I want to be right next to the beach.",
+          "arabic": "وأريد أن أكون بجانب الشاطئ مباشرة.",
+          "refer_to": "Page 77",
+          "back_to": "",
+          "audio": "assets/audio/And I want to be right next to the beach.mp3",
+          "audioQuestion": "",
+          "answer": "",
+          "Image": ""
+
+    },
+    
+    {
+          
+          "speaker": "Teacher:",
+          "keyWord": "live",
+          "definition": "",
+          "english": "I hope you can live in that home someday!",
+          "arabic": "أتمنى أن تتمكن من العيش في ذلك المنزل يومًا ما!",
+          "refer_to": "Page 77",
+          "back_to": "",
+          "audio": "assets/audio/Well, I hope you can live in that home someday.mp3",
+          "audioQuestion": "",
+          "answer": "",
+          "Image": ""
+
+    },     
+    {
+          
+          "speaker": "Teacher:",
+          "keyWord": "choose",
+          "definition": "",
+          "english": "There are many different reasons to choose a home.",
+          "arabic": "هناك العديد من الأسباب المختلفة لاختيار منزل.",
+          "refer_to": "Page 77",
+          "back_to": "",
+          "audio": "assets/audio/There are many different reasons to choose a home.mp3",
+          "audioQuestion": "",
+          "answer": "",
+          "Image": ""
+    }
+  ]
+}

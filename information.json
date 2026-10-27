@@ -1,0 +1,33 @@
+
+
+{
+  "title": "Q3eSE_LS0_U01_Page 7",
+  "sentences": [
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "Amal is interested in math and sports.",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "Hugo is interested in sports and photography.",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Hugo is interested in sports and photography.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }
+      ]
+}
