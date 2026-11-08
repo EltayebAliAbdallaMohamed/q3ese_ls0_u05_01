@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Q3eSE_LS0_U05_01_QClassroom</title>
+  <title>q3ese_ls0_u05_page 87</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body role="document">
@@ -12,17 +12,27 @@
       <label for="jsonFileSelect"><strong>Select Lesson File:</strong></label>
       <select id="jsonFileSelect" aria-label="Select a JSON lesson file">
         <option value="">-- Choose a lesson --</option>
-        <option value="Q3eSE_LS0_U05_01_QClassroom.json">Q3eSE_LS0_U05_01_QClassroom</option>
-        <option value="Q3eSE_LS0_U05_01_QClassroom_verbs.json">Q3eSE_LS0_U05_01_verbs</option>
-        <option value="Q3eSE_LS0_U05_01_places_to_live.json">Q3eSE_LS0_U05_01 - Places to live</option>
-      
-        <option value="Q3eSE_LS0_U05_01_who_said_what.json">Who said what?</option>
-        <option value=" Q3eSE_LS0_U05_02_Listening1_good_bad_points.json">Good or bad Points?</option>
-
+        <option value="Q3eSE_LS0_U05_02_Listening1_ActivitiesA_D_E.json">Unit 5 - Listening1_ActivitiesA_D_E.</option>
+        <option value="Q3eSE_LS0_U05_02_Listening1_vocab.json">Unit 5 - Page 78 - Vocabulary</option>
         
-        
+        <option value="Q3eSE_LS0_U05_02_Listening1_good_bad_points.json">Unit 5 - Page 78 - good_bad_points</option>
       </select>
     </div>
+
+    <section class="qr-section" aria-label="Share app">
+      <button
+        type="button"
+        id="toggleQrButton"
+        aria-expanded="false"
+        aria-controls="qrPanel"
+      >Show app QR code</button>
+      <div id="qrPanel" class="qr-panel" hidden>
+        <p>Scan this code to open the app:</p>
+        <div id="qrCode" class="qr-code" aria-label="QR code for this app"></div>
+        <p id="qrStatus" class="qr-status" role="status" aria-live="polite"></p>
+      </div>
+    </section>
+
     <h1 id="lessonTitle" aria-label="Lesson title"></h1>
     <div id="speakingIndicator" class="speaking-indicator" role="status" aria-live="polite">
       <span class="pulse">🔊</span> Speaking...
@@ -71,6 +81,8 @@
   <footer role="contentinfo">
     <p>Created by: <span>Eltayeb Ali Abdalla Mohamed - King Saud University</span> | <span>© 2025 - All rights reserved</span></p>
   </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
   <script src="script.js"></script>
 </body>
 </html>
